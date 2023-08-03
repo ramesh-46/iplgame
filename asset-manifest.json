@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iplgame/static/css/main.109600ec.chunk.css",
+    "main.js": "/iplgame/static/js/main.635211a7.chunk.js",
+    "main.js.map": "/iplgame/static/js/main.635211a7.chunk.js.map",
+    "runtime-main.js": "/iplgame/static/js/runtime-main.ea723265.js",
+    "runtime-main.js.map": "/iplgame/static/js/runtime-main.ea723265.js.map",
+    "static/js/2.f459a626.chunk.js": "/iplgame/static/js/2.f459a626.chunk.js",
+    "static/js/2.f459a626.chunk.js.map": "/iplgame/static/js/2.f459a626.chunk.js.map",
+    "index.html": "/iplgame/index.html",
+    "static/css/main.109600ec.chunk.css.map": "/iplgame/static/css/main.109600ec.chunk.css.map",
+    "static/js/2.f459a626.chunk.js.LICENSE.txt": "/iplgame/static/js/2.f459a626.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea723265.js",
+    "static/js/2.f459a626.chunk.js",
+    "static/css/main.109600ec.chunk.css",
+    "static/js/main.635211a7.chunk.js"
+  ]
+}
